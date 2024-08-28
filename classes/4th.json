@@ -1,16 +1,18 @@
-[
-  {
-    "chapter":1,
-    "chaptername":"The Life Cycle of Animals",
-    "pdffile":"",
-    "audiofile":"",
-    "completed":true
-  },
-  {
-    "chapter":2,
-    "chaptername":"The Interrelationships between living things",
-    "pdffile":"",
-    "audiofile":"",
-    "completed":true
-  }
-]
+{
+  "chapters" : [
+    {
+      "chapter":1,
+      "chaptername":"The Life Cycle of Animals",
+      "pdffile":"",
+      "audiofile":"",
+      "completed":true
+    },
+    {
+      "chapter":2,
+      "chaptername":"The Interrelationships between living things",
+      "pdffile":"",
+      "audiofile":"",
+      "completed":true
+    }
+  ]
+}
