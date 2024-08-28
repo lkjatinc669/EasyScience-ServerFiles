@@ -3,12 +3,14 @@
     "chapter":1,
     "chaptername":"The Life Cycle of Animals",
     "pdffile":"",
-    "audiofile":""
+    "audiofile":"",
+    "completed":true
   },
   {
     "chapter":2,
     "chaptername":"The Interrelationships between living things",
     "pdffile":"",
-    "audiofile":""
+    "audiofile":"",
+    "completed":true
   }
 ]
