@@ -1,1 +1,32 @@
-
+{
+  "chapters" : [
+    {
+      "chapter":1,
+      "chaptername":"",
+      "pdffile":"https://github.com/kjatin669/EasyScience-Files/raw/main/5/p51.pdf",
+      "audiofile":"https://github.com/kjatin669/EasyScience-Files/raw/main/5/a51.mp3",
+      "completed":true
+    },
+    {
+      "chapter":2,
+      "chaptername":"",
+      "pdffile":"https://github.com/kjatin669/EasyScience-Files/raw/main/5/p52.pdf",
+      "audiofile":"https://github.com/kjatin669/EasyScience-Files/raw/main/5/a52.mp3",
+      "completed":false
+    },
+    {
+      "chapter":3,
+      "chaptername":"",
+      "pdffile":"https://github.com/kjatin669/EasyScience-Files/raw/main/5/p53.pdf",
+      "audiofile":"https://github.com/kjatin669/EasyScience-Files/raw/main/5/a53.mp3",
+      "completed":false
+    },
+    {
+      "chapter":4,
+      "chaptername":"",
+      "pdffile":"https://github.com/kjatin669/EasyScience-Files/raw/main/5/p54.pdf",
+      "audiofile":"https://github.com/kjatin669/EasyScience-Files/raw/main/5/a54.mp3",
+      "completed":false
+    }
+  ]
+}
