@@ -3,15 +3,15 @@
     {
       "chapter":1,
       "chaptername":"The Life Cycle of Animals",
-      "pdffile":"",
-      "audiofile":"",
+      "pdffile":"https://github.com/kjatin669/EasyScience-Files/raw/main/4/p41.pdf",
+      "audiofile":"https://github.com/kjatin669/EasyScience-Files/raw/main/4/a41.mp3",
       "completed":true
     },
     {
       "chapter":2,
       "chaptername":"The Interrelationships between living things",
-      "pdffile":"",
-      "audiofile":"",
+      "pdffile":"https://github.com/kjatin669/EasyScience-Files/raw/main/4/p42.pdf",
+      "audiofile":"https://github.com/kjatin669/EasyScience-Files/raw/main/4/a42.mp3",
       "completed":true
     }
   ]
