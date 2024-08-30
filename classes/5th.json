@@ -2,31 +2,31 @@
   "chapters" : [
     {
       "chapter":1,
-      "chaptername":"",
+      "chaptername":"The Earth and out solar system",
       "pdffile":"https://github.com/kjatin669/EasyScience-Files/raw/main/5/p51.pdf",
       "audiofile":"https://github.com/kjatin669/EasyScience-Files/raw/main/5/a51.mp3",
       "completed":true
     },
     {
       "chapter":2,
-      "chaptername":"",
+      "chaptername":"Motions of the earth",
       "pdffile":"https://github.com/kjatin669/EasyScience-Files/raw/main/5/p52.pdf",
       "audiofile":"https://github.com/kjatin669/EasyScience-Files/raw/main/5/a52.mp3",
-      "completed":false
+      "completed":true
     },
     {
       "chapter":3,
-      "chaptername":"",
+      "chaptername":"The Earth and its living world",
       "pdffile":"https://github.com/kjatin669/EasyScience-Files/raw/main/5/p53.pdf",
       "audiofile":"https://github.com/kjatin669/EasyScience-Files/raw/main/5/a53.mp3",
-      "completed":false
+      "completed":true
     },
     {
       "chapter":4,
-      "chaptername":"",
+      "chaptername":"Environmental Balance",
       "pdffile":"https://github.com/kjatin669/EasyScience-Files/raw/main/5/p54.pdf",
       "audiofile":"https://github.com/kjatin669/EasyScience-Files/raw/main/5/a54.mp3",
-      "completed":false
+      "completed":true
     }
   ]
 }
