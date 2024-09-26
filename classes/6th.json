@@ -1,1 +1,162 @@
-
+{
+    "chapters": [
+        {
+            "number": 1,
+            "name": "Natural Resources - Air, Water and Land",
+            "textbook": "",
+            "notes": "",
+            "workbook": "",
+            "cheatsheet": ""
+        },
+        {
+            "number": 2,
+            "name": "The Living World",
+            "textbook": "",
+            "notes": "",
+            "workbook": "",
+            "cheatsheet": ""
+        },
+        {
+            "number": 3,
+            "name": "Diversity in Living things and thier Classification",
+            "textbook": "",
+            "notes": "",
+            "workbook": "",
+            "cheatsheet": ""
+        },
+        {
+            "number": 4,
+            "name": "Disaster Management",
+            "textbook": "",
+            "notes": "",
+            "workbook": "",
+            "cheatsheet": ""
+        },
+        {
+            "number": 5,
+            "name": "Substances in the surrounding - thier states and properties",
+            "textbook": "",
+            "notes": "",
+            "workbook": "",
+            "cheatsheet": ""
+        },
+        {
+            "number": 6,
+            "name": "Substances in Daily use",
+            "textbook": "",
+            "notes": "",
+            "workbook": "",
+            "cheatsheet": ""
+        },
+        {
+            "number": 7,
+            "name": "Nutrition and diet",
+            "textbook": "",
+            "notes": "",
+            "workbook": "",
+            "cheatsheet": ""
+        },
+        {
+            "number": 8,
+            "name": "Our skeletal system and the skin",
+            "textbook": "",
+            "notes": "",
+            "workbook": "",
+            "cheatsheet": ""
+        },
+        {
+            "number": 9,
+            "name": "Motion and types of motion",
+            "textbook": "",
+            "notes": "",
+            "workbook": "",
+            "cheatsheet": ""
+        },
+        {
+            "number": 10,
+            "name": "Force and types of force",
+            "textbook": "",
+            "notes": "",
+            "workbook": "",
+            "cheatsheet": ""
+        },
+        {
+            "number": 11,
+            "name": "Work and Energy",
+            "textbook": "",
+            "notes": "",
+            "workbook": "",
+            "cheatsheet": ""
+        },
+        {
+            "number": 12,
+            "name": "Simple Machines",
+            "textbook": "",
+            "notes": "",
+            "workbook": "",
+            "cheatsheet": ""
+        },
+        {
+            "number": 13,
+            "name": "Sound",
+            "textbook": "",
+            "notes": "",
+            "workbook": "",
+            "cheatsheet": ""
+        },
+        {
+            "number": 14,
+            "name": "Light and the formation of shadows",
+            "textbook": "",
+            "notes": "",
+            "workbook": "",
+            "cheatsheet": ""
+        },
+        {
+            "number": 15,
+            "name": "Fun with Magnets",
+            "textbook": "",
+            "notes": "",
+            "workbook": "",
+            "cheatsheet": ""
+        },
+        {
+            "number": 16,
+            "name": "The Universe",
+            "textbook": "",
+            "notes": "",
+            "workbook": "",
+            "cheatsheet": ""
+        }
+    ],
+    "modalPapers": [
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    ]
+}

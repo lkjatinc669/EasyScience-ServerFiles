@@ -1,1 +1,178 @@
-
+{
+    "chapters": [
+        {
+            "number": 1,
+            "name": "Laws of Motion ",
+            "textbook": "",
+            "notes": "",
+            "workbook": "",
+            "cheatsheet": ""
+        },
+        {
+            "number": 2,
+            "name": "Work and Energy ",
+            "textbook": "",
+            "notes": "",
+            "workbook": "",
+            "cheatsheet": ""
+        },
+        {
+            "number": 3,
+            "name": "Current Electricity ",
+            "textbook": "",
+            "notes": "",
+            "workbook": "",
+            "cheatsheet": ""
+        },
+        {
+            "number": 4,
+            "name": "Measurement of Matter ",
+            "textbook": "",
+            "notes": "",
+            "workbook": "",
+            "cheatsheet": ""
+        },
+        {
+            "number": 5,
+            "name": "Acids, Bases and Salts ",
+            "textbook": "",
+            "notes": "",
+            "workbook": "",
+            "cheatsheet": ""
+        },
+        {
+            "number": 6,
+            "name": "Classification of Plants ",
+            "textbook": "",
+            "notes": "",
+            "workbook": "",
+            "cheatsheet": ""
+        },
+        {
+            "number": 7,
+            "name": "Energy Flow in an Ecosystem ",
+            "textbook": "",
+            "notes": "",
+            "workbook": "",
+            "cheatsheet": ""
+        },
+        {
+            "number": 8,
+            "name": "Useful and Harmful Microbes ",
+            "textbook": "",
+            "notes": "",
+            "workbook": "",
+            "cheatsheet": ""
+        },
+        {
+            "number": 9,
+            "name": "Environmental Management ",
+            "textbook": "",
+            "notes": "",
+            "workbook": "",
+            "cheatsheet": ""
+        },
+        {
+            "number": 10,
+            "name": "Information Communication Technology (ICT) ",
+            "textbook": "",
+            "notes": "",
+            "workbook": "",
+            "cheatsheet": ""
+        },
+        {
+            "number": 11,
+            "name": "Reflection of Light ",
+            "textbook": "",
+            "notes": "",
+            "workbook": "",
+            "cheatsheet": ""
+        },
+        {
+            "number": 12,
+            "name": "Study of Sound ",
+            "textbook": "",
+            "notes": "",
+            "workbook": "",
+            "cheatsheet": ""
+        },
+        {
+            "number": 13,
+            "name": "Carbon: An important element ",
+            "textbook": "",
+            "notes": "",
+            "workbook": "",
+            "cheatsheet": ""
+        },
+        {
+            "number": 14,
+            "name": "Substances in Common Use ",
+            "textbook": "",
+            "notes": "",
+            "workbook": "",
+            "cheatsheet": ""
+        },
+        {
+            "number": 15,
+            "name": "Life Processes in Living Organisms ",
+            "textbook": "",
+            "notes": "",
+            "workbook": "",
+            "cheatsheet": ""
+        },
+        {
+            "number": 16,
+            "name": "Heredity and Variation ",
+            "textbook": "",
+            "notes": "",
+            "workbook": "",
+            "cheatsheet": ""
+        },
+        {
+            "number": 17,
+            "name": "Introduction to Biotechnology ",
+            "textbook": "",
+            "notes": "",
+            "workbook": "",
+            "cheatsheet": ""
+        },
+        {
+            "number": 18,
+            "name": "Observing Space: Telescopes",
+            "textbook": "",
+            "notes": "",
+            "workbook": "",
+            "cheatsheet": ""
+        }
+    ],
+    "modalPapers": [
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    ]
+}

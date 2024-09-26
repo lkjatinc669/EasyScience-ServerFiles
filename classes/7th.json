@@ -1,1 +1,194 @@
-
+{
+    "chapters": [
+        {
+            "number": 1,
+            "name": "The Living World: Adaptations and Classification ",
+            "textbook": "",
+            "notes": "",
+            "workbook": "",
+            "cheatsheet": ""
+        },
+        {
+            "number": 2,
+            "name": "Plants: Structure and Function ",
+            "textbook": "",
+            "notes": "",
+            "workbook": "",
+            "cheatsheet": ""
+        },
+        {
+            "number": 3,
+            "name": "Properties of Natural Resources ",
+            "textbook": "",
+            "notes": "",
+            "workbook": "",
+            "cheatsheet": ""
+        },
+        {
+            "number": 4,
+            "name": "Nutrition in Living Organisms ",
+            "textbook": "",
+            "notes": "",
+            "workbook": "",
+            "cheatsheet": ""
+        },
+        {
+            "number": 5,
+            "name": "Food Safety ",
+            "textbook": "",
+            "notes": "",
+            "workbook": "",
+            "cheatsheet": ""
+        },
+        {
+            "number": 6,
+            "name": "Measurement of Physical Quantities ",
+            "textbook": "",
+            "notes": "",
+            "workbook": "",
+            "cheatsheet": ""
+        },
+        {
+            "number": 7,
+            "name": "Motion, Force and Work ",
+            "textbook": "",
+            "notes": "",
+            "workbook": "",
+            "cheatsheet": ""
+        },
+        {
+            "number": 8,
+            "name": "Static Electricity ",
+            "textbook": "",
+            "notes": "",
+            "workbook": "",
+            "cheatsheet": ""
+        },
+        {
+            "number": 9,
+            "name": "Heat ",
+            "textbook": "",
+            "notes": "",
+            "workbook": "",
+            "cheatsheet": ""
+        },
+        {
+            "number": 10,
+            "name": "Disaster Management ",
+            "textbook": "",
+            "notes": "",
+            "workbook": "",
+            "cheatsheet": ""
+        },
+        {
+            "number": 11,
+            "name": "Cell Structure and Micro-organisms ",
+            "textbook": "",
+            "notes": "",
+            "workbook": "",
+            "cheatsheet": ""
+        },
+        {
+            "number": 12,
+            "name": "The Muscular System and Digestive System in Human Beings ",
+            "textbook": "",
+            "notes": "",
+            "workbook": "",
+            "cheatsheet": ""
+        },
+        {
+            "number": 13,
+            "name": "Changes - Physical and Chemical ",
+            "textbook": "",
+            "notes": "",
+            "workbook": "",
+            "cheatsheet": ""
+        },
+        {
+            "number": 14,
+            "name": "Elements, Compounds and Mixtures ",
+            "textbook": "",
+            "notes": "",
+            "workbook": "",
+            "cheatsheet": ""
+        },
+        {
+            "number": 15,
+            "name": "Materials We Use ",
+            "textbook": "",
+            "notes": "",
+            "workbook": "",
+            "cheatsheet": ""
+        },
+        {
+            "number": 16,
+            "name": "Natural Resources ",
+            "textbook": "",
+            "notes": "",
+            "workbook": "",
+            "cheatsheet": ""
+        },
+        {
+            "number": 17,
+            "name": "Effects of Light ",
+            "textbook": "",
+            "notes": "",
+            "workbook": "",
+            "cheatsheet": ""
+        },
+        {
+            "number": 18,
+            "name": "Sound: Production of Sound ",
+            "textbook": "",
+            "notes": "",
+            "workbook": "",
+            "cheatsheet": ""
+        },
+        {
+            "number": 19,
+            "name": "Properties of a Magnetic Field ",
+            "textbook": "",
+            "notes": "",
+            "workbook": "",
+            "cheatsheet": ""
+        },
+        {
+            "number": 20,
+            "name": "In the World of Stars",
+            "textbook": "",
+            "notes": "",
+            "workbook": "",
+            "cheatsheet": ""
+        }
+    ],
+    "modalPapers": [
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    ]
+}

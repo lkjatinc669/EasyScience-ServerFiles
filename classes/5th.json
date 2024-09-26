@@ -1,32 +1,146 @@
 {
-  "chapters" : [
-    {
-      "chapter":1,
-      "chaptername":"The Earth and out solar system",
-      "pdffile":"https://github.com/kjatin669/EasyScience-Files/raw/main/5/p51.pdf",
-      "audiofile":"https://github.com/kjatin669/EasyScience-Files/raw/main/5/a51.mp3",
-      "completed":true
-    },
-    {
-      "chapter":2,
-      "chaptername":"Motions of the earth",
-      "pdffile":"https://github.com/kjatin669/EasyScience-Files/raw/main/5/p52.pdf",
-      "audiofile":"https://github.com/kjatin669/EasyScience-Files/raw/main/5/a52.mp3",
-      "completed":true
-    },
-    {
-      "chapter":3,
-      "chaptername":"The Earth and its living world",
-      "pdffile":"https://github.com/kjatin669/EasyScience-Files/raw/main/5/p53.pdf",
-      "audiofile":"https://github.com/kjatin669/EasyScience-Files/raw/main/5/a53.mp3",
-      "completed":true
-    },
-    {
-      "chapter":4,
-      "chaptername":"Environmental Balance",
-      "pdffile":"https://github.com/kjatin669/EasyScience-Files/raw/main/5/p54.pdf",
-      "audiofile":"https://github.com/kjatin669/EasyScience-Files/raw/main/5/a54.mp3",
-      "completed":true
-    }
+  "chapters": [
+      {
+          "number": 1,
+          "name": "Our earth and our solar system",
+          "textbook": "",
+          "notes": "",
+          "workbook": "",
+          "cheatsheet": ""
+      },
+      {
+          "number": 2,
+          "name": "Motion of the earth",
+          "textbook": "",
+          "notes": "",
+          "workbook": "",
+          "cheatsheet": ""
+      },
+      {
+          "number": 3,
+          "name": "The earths and its living world",
+          "textbook": "",
+          "notes": "",
+          "workbook": "",
+          "cheatsheet": ""
+      },
+      {
+          "number": 4,
+          "name": "Environmetal Balance",
+          "textbook": "",
+          "notes": "",
+          "workbook": "",
+          "cheatsheet": ""
+      },
+      {
+          "number": 12,
+          "name": "Food for all",
+          "textbook": "",
+          "notes": "",
+          "workbook": "",
+          "cheatsheet": ""
+      },
+      {
+          "number": 13,
+          "name": "Method of preserving food",
+          "textbook": "",
+          "notes": "",
+          "workbook": "",
+          "cheatsheet": ""
+      },
+      {
+          "number": 16,
+          "name": "Water",
+          "textbook": "",
+          "notes": "",
+          "workbook": "",
+          "cheatsheet": ""
+      },
+      {
+          "number": 18,
+          "name": "The Environment and Us",
+          "textbook": "",
+          "notes": "",
+          "workbook": "",
+          "cheatsheet": ""
+      },
+      {
+          "number": 19,
+          "name": "Constituents of Food",
+          "textbook": "",
+          "notes": "",
+          "workbook": "",
+          "cheatsheet": ""
+      },
+      {
+          "number": 21,
+          "name": "Bust at work-Our Internal Organs",
+          "textbook": "",
+          "notes": "",
+          "workbook": "",
+          "cheatsheet": ""
+      },
+      {
+          "number": 22,
+          "name": "Growth and Personality Development",
+          "textbook": "",
+          "notes": "",
+          "workbook": "",
+          "cheatsheet": ""
+      },
+      {
+          "number": 23,
+          "name": "Infectious diseases and how to prevent them",
+          "textbook": "",
+          "notes": "",
+          "workbook": "",
+          "cheatsheet": ""
+      },
+      {
+          "number": 24,
+          "name": "Substances, Objects and Energy",
+          "textbook": "",
+          "notes": "",
+          "workbook": "",
+          "cheatsheet": ""
+      },
+      {
+          "number": 25,
+          "name": "Community Health and Hygiene",
+          "textbook": "",
+          "notes": "",
+          "workbook": "",
+          "cheatsheet": ""
+      }
+  ],
+  "modalPapers": [
+      [
+          "",
+          "",
+          "",
+          "",
+          ""
+      ],
+      [
+          "",
+          "",
+          "",
+          "",
+          ""
+      ],
+      [
+          "",
+          "",
+          "",
+          "",
+          ""
+      ],
+      [
+          "",
+          "",
+          "",
+          "",
+          ""
+      ]
   ]
 }

@@ -1,18 +1,105 @@
 {
-  "chapters" : [
-    {
-      "chapter":1,
-      "chaptername":"The Life Cycle of Animals",
-      "pdffile":"https://github.com/kjatin669/EasyScience-Files/raw/main/4/p41.pdf",
-      "audiofile":"https://github.com/kjatin669/EasyScience-Files/raw/main/4/a41.mp3",
-      "completed":true
-    },
-    {
-      "chapter":2,
-      "chaptername":"The Interrelationships between living things",
-      "pdffile":"https://github.com/kjatin669/EasyScience-Files/raw/main/4/p42.pdf",
-      "audiofile":"https://github.com/kjatin669/EasyScience-Files/raw/main/4/a42.mp3",
-      "completed":true
-    }
+  "chapters": [
+      {
+          "number": 1,
+          "name": "The lifecycle of animals",
+          "textbook": "",
+          "notes": "",
+          "workbook": "",
+          "cheatsheet": ""
+      },
+      {
+          "number": 2,
+          "name": "The Interrelationships between living things",
+          "textbook": "",
+          "notes": "",
+          "workbook": "",
+          "cheatsheet": ""
+      },
+      {
+          "number": 4,
+          "name": "Water Safe for drinking",
+          "textbook": "",
+          "notes": "",
+          "workbook": "",
+          "cheatsheet": ""
+      },
+      {
+          "number": 5,
+          "name": "Water for every household",
+          "textbook": "",
+          "notes": "",
+          "workbook": "",
+          "cheatsheet": ""
+      },
+      {
+          "number": 7,
+          "name": "Food and Nutrition",
+          "textbook": "",
+          "notes": "",
+          "workbook": "",
+          "cheatsheet": ""
+      },
+      {
+          "number": 9,
+          "name": "Air",
+          "textbook": "",
+          "notes": "",
+          "workbook": "",
+          "cheatsheet": ""
+      },
+      {
+          "number": 10,
+          "name": "Clothes",
+          "textbook": "",
+          "notes": "",
+          "cheatsheet": ""
+      },
+      {
+          "number": 11,
+          "name": "A look inside the body",
+          "textbook": "",
+          "notes": "",
+          "workbook": "",
+          "cheatsheet": ""
+      },
+      {
+          "number": 12,
+          "name": "Home Remedies for simple Illnesses",
+          "textbook": "",
+          "notes": "",
+          "workbook": "",
+          "cheatsheet": ""
+      }
+  ],
+  "modalPapers": [
+      [
+          "",
+          "",
+          "",
+          "",
+          ""
+      ],
+      [
+          "",
+          "",
+          "",
+          "",
+          ""
+      ],
+      [
+          "",
+          "",
+          "",
+          "",
+          ""
+      ],
+      [
+          "",
+          "",
+          "",
+          "",
+          ""
+      ]
   ]
 }
