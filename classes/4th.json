@@ -57,11 +57,12 @@
       },
       {
           "number": 9,
+          "name": "Air",
           "textbook": "",
           "textbookaudio": "",
           "notes": "",
           "notesaudio": "",
-          "workbook": "",
+          "workbook": "https://raw.githubusercontent.com/kjatin669/EasyScience-Files/main/std4/workbook/s4c9.pdf",
           "workbookaudio": "",
           "cheatsheet": ""
       },
@@ -72,7 +73,7 @@
           "textbookaudio": "",
           "notes": "",
           "notesaudio": "",
-          "workbook": "",
+          "workbook": "https://raw.githubusercontent.com/kjatin669/EasyScience-Files/main/std4/workbook/s4c10.pdf",
           "workbookaudio": "",
           "cheatsheet": ""
       },
